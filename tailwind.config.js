@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'random': ['Hanken Grotesk']
+        'random': ['Work Sans']
       }
     },
   },
